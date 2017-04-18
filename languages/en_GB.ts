@@ -923,4 +923,3 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
 </context>
 </TS>
-:q
