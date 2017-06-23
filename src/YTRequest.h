@@ -36,6 +36,7 @@
 #include <QVariantMap>
 #include <QNetworkReply>
 #include <QSharedPointer>
+#include <QJsonObject>
 
 #include "YTListModel.h"
 
@@ -52,7 +53,7 @@ class YTRequest : public QObject
     Q_PROPERTY(QString resource READ resource WRITE setResource)
     Q_PROPERTY(Method method READ method WRITE setMethod)
     Q_PROPERTY(QVariantMap params READ params WRITE setParams)
-    Q_PROPERTY(QVariant content READ content WRITE setContent)
+    Q_PROPERTY(QJsonObject content READ content WRITE setContent)
     Q_PROPERTY(bool busy READ busy NOTIFY busyChanged)
     Q_PROPERTY(bool loaded READ loaded NOTIFY loadedChanged)
     Q_PROPERTY(YTListModel* model READ model WRITE setModel)
@@ -102,8 +103,8 @@ private:
     QString resource() const { return _resource; }
     Method method() const { return _method; }
     QVariantMap params() const { return _params; }
-    QVariant content() const { return _content; }
-    void setContent(QVariant content) { _content = content; }
+    QJsonObject content() const { return _content; }
+    void setContent(QJsonObject content) { _content = content; }
     bool busy() const { return _busy; }
     bool loaded() const { return _loaded; }
     void setModel(YTListModel *model) { _model = model; }
@@ -119,7 +120,7 @@ private:
     QString _resource;
     Method _method;
     QVariantMap _params;
-    QVariant _content;
+    QJsonObject _content;
     bool _loaded;
     bool _busy;
     YTListModel *_model;

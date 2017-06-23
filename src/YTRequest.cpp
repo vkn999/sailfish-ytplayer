@@ -33,7 +33,6 @@
 #include <QNetworkAccessManager>
 #include <QScopedPointer>
 #include <QJsonDocument>
-#include <QJsonObject>
 #include <QStringList>
 #include <QUrlQuery>
 #include <QSettings>
@@ -210,9 +209,8 @@ YTRequest::run()
     case Post:
     {
         QByteArray data;
-        if (_content.isValid()) {
-            QJsonDocument doc = QJsonDocument::fromVariant(_content);
-            data = doc.toJson(QJsonDocument::Compact);
+        if (!_content.isEmpty()) {
+            data = QJsonDocument(_content).toJson(QJsonDocument::Compact);
             request.setHeader(QNetworkRequest::ContentTypeHeader, "application/json");
             request.setHeader(QNetworkRequest::ContentLengthHeader, data.size());
         } else {
@@ -334,7 +332,8 @@ void
 YTRequest::handleSuccess(QNetworkReply *reply)
 {
     QVariant contentType = reply->header(QNetworkRequest::ContentTypeHeader);
-    if (contentType.isValid() && contentType.toString().contains("application/json")) {
+    if ((contentType.isValid() && contentType.toString().contains("application/json")) ||
+            _method == YTRequest::Delete) {
         QByteArray data = reply->readAll();
         QJsonDocument json = QJsonDocument::fromJson(data);
         if (_model && (_params.end() != _params.find("part"))) {
