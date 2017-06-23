@@ -5,6 +5,7 @@
 TRANSLATIONS += \
         languages/ca.ts \
         languages/cs_CZ.ts \
+        languages/fi_FI.ts \
         languages/de.ts \
         languages/en_GB.ts \
         languages/es.ts \
