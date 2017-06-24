@@ -6,7 +6,7 @@
 Name:       harbour-ytplayer
 Summary:    Native YouTube client for SailfishOS
 Version:    0.5.6
-Release:    1
+Release:    2
 Group:      Qt/Qt
 License:    BSD-3-Clause
 URL:        https://github.com/tworaz/sailfish-ytplayer
