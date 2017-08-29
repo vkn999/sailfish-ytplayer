@@ -38,6 +38,17 @@
       ]
     },
     {
+      "name" : "Suomi (Suomi)",
+      "code" : "fi_FI",
+      "authors" : [
+        "Murtsi",
+        "Ari Järviö",
+        "Eero Sytelä",
+        "Pauli Suomu",
+        "Simo Ruoho"
+      ]
+    },
+    {
       "name" : "Français",
       "code" : "fr_FR",
       "authors" : [
@@ -69,7 +80,8 @@
       "name" : "Русский",
       "code" : "ru_RU",
       "authors" : [
-        "Petr Tsymbarovich <petr@tsymbarovich.ru>"
+        "Петр Цымбарович <petr@tsymbarovich.ru>",
+        "Dmitrij D. Czarkoff <czarkoff@gmail.com>"
       ]
     },
     {
