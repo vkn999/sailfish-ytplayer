@@ -24,6 +24,13 @@
       ]
     },
     {
+      "name" : "Greek",
+      "code" : "el",
+      "authors" : [
+        "Dimitrios Glentadakis"
+      ]
+    },
+    {
       "name" : "English (UK)",
       "code" : "en_GB",
       "authors" : [
@@ -89,6 +96,13 @@
       "code" : "sv",
       "authors" : [
         "Åke Engelbrektson <https://svenskasprakfiler.se>"
+      ]
+    },
+    {
+      "name" : "Türkçe",
+      "code" : "tr",
+      "authors" : [
+        "myusdat"
       ]
     }
   ]

@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[ytplayer.ytplayerts]
+source_file = languages/en_GB.ts
+source_lang = en
+type = QT
+file_filter = languages/<lang>.ts

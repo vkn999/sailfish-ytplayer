@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en" sourcelanguage="en">
+<TS version="2.0" language="en" sourcelanguage="en">
 <context>
     <name></name>
     <message id="ytplayer-title-video-categories">
@@ -678,12 +678,16 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-action-clear-history">
         <source>Clear history</source>
-        <extracomment>Menu option allowing the user to clear search history</extracomment>
+        <extracomment>Menu option allowing the user to clear search history
+----------
+Menu option allowing the user to clear search history</extracomment>
         <translation>Clear history</translation>
     </message>
     <message id="ytplayer-msg-clearing-history">
         <source>Clearing history</source>
-        <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
+        <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;
+----------
+&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
         <translation>Clearing history</translation>
     </message>
     <message id="ytplayer-title-search-settings">

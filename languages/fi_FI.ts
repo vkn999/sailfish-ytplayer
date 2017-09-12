@@ -1,6 +1,8 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="fi_FI" sourcelanguage="en" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="fi_FI" sourcelanguage="en">
 <context>
-    <name/>
+    <name></name>
     <message id="ytplayer-title-video-categories">
         <source>Video categories</source>
         <extracomment>Video categories page title</extracomment>
@@ -77,7 +79,7 @@
         <translation>OAuth -valtuutussivun lataus epäonnistui!</translation>
     </message>
     <message id="ytplayer-oauth-access-denied">
-        <source>YouTube OAuth access denined!</source>
+        <source>YouTube OAuth access denied!</source>
         <extracomment>Message informing the user about YouTube OAuth autorization denial</extracomment>
         <translation>YouTube OAuth kielsi pääsyn!</translation>
     </message>
@@ -506,7 +508,7 @@ Label informing the user there are no watched recently videos</extracomment>
         <translation>Jatka automaattisesti latauksia</translation>
     </message>
     <message id="ytplayer-description-autoresume">
-        <source>On startup, resume all downloads which were either quened or in progress when YTPlayer was closed.</source>
+        <source>On startup, resume all downloads which were either queued or in progress when YTPlayer was closed.</source>
         <extracomment>Description of video download auto resume switch in settings</extracomment>
         <translation>Käynnistyessä jatkaa kaikkien sekä käynnissä olevien että jonossa olevien videoiden lataamista siitä mihin lataaminen YouTuben viimeksi sulkeutuessa keskeytyi.</translation>
     </message>
@@ -676,12 +678,16 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-action-clear-history">
         <source>Clear history</source>
-        <extracomment>Menu option allowing the user to clear search history</extracomment>
+        <extracomment>Menu option allowing the user to clear search history
+----------
+Menu option allowing the user to clear search history</extracomment>
         <translation>Pyyhi historia</translation>
     </message>
     <message id="ytplayer-msg-clearing-history">
         <source>Clearing history</source>
-        <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
+        <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;
+----------
+&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
         <translation>Pyyhitään historia</translation>
     </message>
     <message id="ytplayer-title-search-settings">
@@ -833,7 +839,7 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-label-controls-hide-delay">
         <source>Controls hide delay</source>
-        <extracomment>Lael for slider changing video player controls hide delay</extracomment>
+        <extracomment>Label for slider changing video player controls hide delay</extracomment>
         <translation>Ohjainten piilottamisen viive</translation>
     </message>
     <message id="ytplayer-label-autopause">
@@ -889,7 +895,7 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-label-broken-image">
         <source>No image</source>
-        <extracomment>Label shown where video thumbnail is not valid, can't be loaded. Should be very short 8-10 characters max.</extracomment>
+        <extracomment>Label shown where video thumbnail is not valid, can&apos;t be loaded. Should be very short 8-10 characters max.</extracomment>
         <translation>Ei kuvaa</translation>
     </message>
     <message id="ytplayer-label-no-streams">

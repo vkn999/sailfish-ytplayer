@@ -3,18 +3,20 @@
 # found in the LICENSE.YTPlayer file.
 
 TRANSLATIONS += \
-        languages/ca.ts \
-        languages/cs_CZ.ts \
-        languages/fi_FI.ts \
-        languages/de.ts \
-        languages/en_GB.ts \
-        languages/es.ts \
-        languages/fr_FR.ts \
-        languages/it_IT.ts \
-        languages/nl_NL.ts \
-        languages/pl_PL.ts \
-        languages/ru_RU.ts \
-        languages/sv.ts
+    languages/ca.ts \
+    languages/cs_CZ.ts \
+    languages/fi_FI.ts \
+    languages/de.ts \
+    languages/el.ts \
+    languages/en_GB.ts \
+    languages/es.ts \
+    languages/fr_FR.ts \
+    languages/it_IT.ts \
+    languages/nl_NL.ts \
+    languages/pl_PL.ts \
+    languages/ru_RU.ts \
+    languages/sv.ts \
+    languages/tr.ts
 
 OTHER_FILES += languages/translations.json
 

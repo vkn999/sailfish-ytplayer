@@ -1,6 +1,8 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="sv" sourcelanguage="en" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="sv" sourcelanguage="en">
 <context>
-    <name/>
+    <name></name>
     <message id="ytplayer-title-video-categories">
         <source>Video categories</source>
         <extracomment>Video categories page title</extracomment>
@@ -676,12 +678,16 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-action-clear-history">
         <source>Clear history</source>
-        <extracomment>Menu option allowing the user to clear search history</extracomment>
+        <extracomment>Menu option allowing the user to clear search history
+----------
+Menu option allowing the user to clear search history</extracomment>
         <translation>Rensa historik</translation>
     </message>
     <message id="ytplayer-msg-clearing-history">
         <source>Clearing history</source>
-        <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
+        <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;
+----------
+&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
         <translation>Rensar historik</translation>
     </message>
     <message id="ytplayer-title-search-settings">
@@ -889,7 +895,7 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-label-broken-image">
         <source>No image</source>
-        <extracomment>Label shown where video thumbnail is not valid, can't be loaded. Should be very short 8-10 characters max.</extracomment>
+        <extracomment>Label shown where video thumbnail is not valid, can&apos;t be loaded. Should be very short 8-10 characters max.</extracomment>
         <translation>Ingen bild</translation>
     </message>
     <message id="ytplayer-label-no-streams">
