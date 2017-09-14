@@ -46,7 +46,7 @@
     <message id="ytplayer-label-region-code">
         <source>Region code: %1</source>
         <extracomment>Region code field value</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός χώρας: %1</translation>
     </message>
     <message id="ytplayer-label-publish-date">
         <source>Published on</source>
@@ -143,7 +143,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-action-recommended">
         <source>Recommendations</source>
         <extracomment>Menu option fo show YouTube recommendations page</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Συστάσεις</translation>
     </message>
     <message id="ytplayer-action-subscriptions">
         <source>Subscriptions</source>
@@ -618,7 +618,7 @@ Remorse popup message telling the user video download will be removed</extracomm
     <message id="ytplayer-description-account-integration">
         <source>Allow YTPlayer to manage YouTube user account.</source>
         <extracomment>Description of switch activating/deactivating YouTube account integration</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Να επιτρέπεται στο YTPlayer να διαχειρίζεται τον λογαριασμό χρήστη YouTube.</translation>
     </message>
     <message id="ytplayer-msg-channel-subscribed">
         <source>Channel subscribed</source>
@@ -628,7 +628,7 @@ Remorse popup message telling the user video download will be removed</extracomm
     <message id="ytplayer-msg-unsubscribing-channel">
         <source>Unsubscribing channel</source>
         <extracomment>Remorse popup message telling the user channel is about to be unsubscribed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση συνδρομής καναλιού</translation>
     </message>
     <message id="ytplayer-msg-channel-unsubscribed">
         <source>Channel unsubscribed</source>
@@ -638,7 +638,7 @@ Remorse popup message telling the user video download will be removed</extracomm
     <message id="ytplayer-action-copy-link-to-clipboard">
         <source>Copy link to clipboard</source>
         <extracomment>Menu option copying video link to clipboard</extracomment>
-        <translation>Αντιγραφή του συνδέσμου στο πρόχειρο</translation>
+        <translation>Αντιγραφή συνδέσμου στο πρόχειρο</translation>
     </message>
     <message id="ytplayer-msg-link-copied">
         <source>Link copied</source>
