@@ -662,7 +662,6 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-msg-direct-playback-impossible">
         <source>No video streams available</source>
-        <oldsource>Direct video playback not possible</oldsource>
         <extracomment>Notification summary informing the user direct video playback is not possible</extracomment>
         <translation>No video streams available</translation>
     </message>
@@ -849,7 +848,6 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-description-autopause">
         <source>Automatically pause video playback when application is deactivated.</source>
-        <oldsource>Automatically pause video playback when application is deactivated</oldsource>
         <extracomment>Description of video auto pause option switch.</extracomment>
         <translation>Automatically pause video playback when application is deactivated.</translation>
     </message>
@@ -905,13 +903,11 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-msg-video-unavailable">
         <source>Video no longer available</source>
-        <oldsource>Video no longer available!</oldsource>
         <extracomment>Notification summary informing the user video is no longer available.</extracomment>
         <translation>Video no longer available</translation>
     </message>
     <message id="ytplayer-msg-video-unavailable-desc">
         <source>Video was removed from YouTube</source>
-        <oldsource>Video was removed from YouTube.</oldsource>
         <extracomment>Notification body explaining why video is no longer available.</extracomment>
         <translation>Video was removed from YouTube</translation>
     </message>

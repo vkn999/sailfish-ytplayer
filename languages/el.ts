@@ -662,7 +662,6 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-msg-direct-playback-impossible">
         <source>No video streams available</source>
-        <oldsource>Direct video playback not possible</oldsource>
         <extracomment>Notification summary informing the user direct video playback is not possible</extracomment>
         <translation>Καμιά ροή βίντεο διαθέσιμη</translation>
     </message>
@@ -849,9 +848,8 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-description-autopause">
         <source>Automatically pause video playback when application is deactivated.</source>
-        <oldsource>Automatically pause video playback when application is deactivated</oldsource>
         <extracomment>Description of video auto pause option switch.</extracomment>
-        <translation>Αυτόματη παύση της αναπαραγωγής του βίντεο όταν η εφαρμογής τίθεται στο παρασκήνιο.</translation>
+        <translation>Αυτόματη παύση της αναπαραγωγής του βίντεο όταν η εφαρμογή τίθεται στο παρασκήνιο.</translation>
     </message>
     <message id="ytplayer-label-quality-wifi">
         <source>Default video quality on WiFi</source>
@@ -905,13 +903,11 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-msg-video-unavailable">
         <source>Video no longer available</source>
-        <oldsource>Video no longer available!</oldsource>
         <extracomment>Notification summary informing the user video is no longer available.</extracomment>
         <translation>Το βίντεο δεν είναι πια διαθέσιμο</translation>
     </message>
     <message id="ytplayer-msg-video-unavailable-desc">
         <source>Video was removed from YouTube</source>
-        <oldsource>Video was removed from YouTube.</oldsource>
         <extracomment>Notification body explaining why video is no longer available.</extracomment>
         <translation>Το βίντεο έχει αφαιρεθεί από το YouTube</translation>
     </message>
