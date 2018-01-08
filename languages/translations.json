@@ -63,10 +63,25 @@
       ]
     },
     {
+      "name" : "Magyar (Magyar)",
+      "code" : "hu_HU",
+      "authors" : [
+        "Veronika Simonkay",
+        "leoka"
+      ]
+    },
+    {
       "name" : "Italiano",
       "code" : "it_IT",
       "authors" : [
         "Gio Scino"
+      ]
+    },
+    {
+      "name" : "日本語",
+      "code" : "ja",
+      "authors" : [
+        "Yamada Takashi"
       ]
     },
     {
