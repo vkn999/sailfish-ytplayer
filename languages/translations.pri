@@ -5,13 +5,15 @@
 TRANSLATIONS += \
     languages/ca.ts \
     languages/cs_CZ.ts \
-    languages/fi_FI.ts \
     languages/de.ts \
     languages/el.ts \
     languages/en_GB.ts \
     languages/es.ts \
+    languages/fi_FI.ts \
     languages/fr_FR.ts \
+    languages/hu_HU.ts \
     languages/it_IT.ts \
+    languages/ja.ts \
     languages/nl_NL.ts \
     languages/pl_PL.ts \
     languages/ru_RU.ts \

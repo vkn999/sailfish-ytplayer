@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="en" sourcelanguage="en">
+<TS version="2.1" language="en" sourcelanguage="en">
 <context>
     <name></name>
     <message id="ytplayer-title-video-categories">
@@ -118,9 +118,7 @@
     </message>
     <message id="ytplayer-label-network-offline">
         <source>Network Offline</source>
-        <extracomment>Network offline screen label
-----------
-Network offline screen label</extracomment>
+        <extracomment>Network offline screen label</extracomment>
         <translation>Network Offline</translation>
     </message>
     <message id="ytplayer-label-video-quality">
@@ -192,9 +190,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     </message>
     <message id="ytplayer-action-view-license">
         <source>View license</source>
-        <extracomment>Button for showing license viewer page
-----------
-Button for showing license viewer page</extracomment>
+        <extracomment>Button for showing license viewer page</extracomment>
         <translation>View license</translation>
     </message>
     <message id="ytplayer-label-application-license">
@@ -416,9 +412,7 @@ Label for channel name text field</extracomment>
     </message>
     <message id="ytplayer-label-current-usage">
         <source>Current usage</source>
-        <extracomment>Label for current cache usage label
-----------
-Label for current cache usage label</extracomment>
+        <extracomment>Label for current cache usage label</extracomment>
         <translation>Current usage</translation>
     </message>
     <message id="ytplayer-label-api-req-cache-size">
@@ -433,9 +427,7 @@ Label for current cache usage label</extracomment>
     </message>
     <message id="ytplayer-action-remove">
         <source>Remove</source>
-        <extracomment>Menu action to remove the element from the list
-----------
-Menu action to remove the element from the list</extracomment>
+        <extracomment>Menu action to remove the element from the list</extracomment>
         <translation>Remove</translation>
     </message>
     <message id="ytplayer-label-no-videos">
@@ -583,16 +575,12 @@ Label informing the user there are no watched recently videos</extracomment>
     </message>
     <message id="ytplayer-msg-cancelling-download">
         <source>Cancelling download</source>
-        <extracomment>Remorse popup message telling the user video download will be cancelled
-----------
-Remorse popup message telling the user video download will be cancelled</extracomment>
+        <extracomment>Remorse popup message telling the user video download will be cancelled</extracomment>
         <translation>Cancelling download</translation>
     </message>
     <message id="ytplayer-msg-removing-download">
         <source>Removing download</source>
-        <extracomment>Remorse popup message telling the user video download will be removed
-----------
-Remorse popup message telling the user video download will be removed</extracomment>
+        <extracomment>Remorse popup message telling the user video download will be removed</extracomment>
         <translation>Removing download</translation>
     </message>
     <message id="ytplayer-msg-clearing-cache">
@@ -677,16 +665,12 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-action-clear-history">
         <source>Clear history</source>
-        <extracomment>Menu option allowing the user to clear search history
-----------
-Menu option allowing the user to clear search history</extracomment>
+        <extracomment>Menu option allowing the user to clear search history</extracomment>
         <translation>Clear history</translation>
     </message>
     <message id="ytplayer-msg-clearing-history">
         <source>Clearing history</source>
-        <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;
-----------
-&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
+        <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
         <translation>Clearing history</translation>
     </message>
     <message id="ytplayer-title-search-settings">
@@ -791,9 +775,7 @@ Menu option allowing the user to clear search history</extracomment>
     </message>
     <message id="ytplayer-action-hide-search">
         <source>Hide search</source>
-        <extracomment>Menu option allowing the user to hide search field
-----------
-Menu option allowing the user to hide search field</extracomment>
+        <extracomment>Menu option allowing the user to hide search field</extracomment>
         <translation>Hide search</translation>
     </message>
     <message id="ytplayer-msg-removing-favorite">
