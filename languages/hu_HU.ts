@@ -66,7 +66,7 @@
     <message id="ytplayer-label-video-count">
         <source>Video count</source>
         <extracomment>Label for channel video count field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Video száma</translation>
     </message>
     <message id="ytplayer-label-latest-videos">
         <source>Latest videos</source>
@@ -76,7 +76,7 @@
     <message id="ytplayer-oauth-page-loading-failed">
         <source>Failed to load OAuth authorization page!</source>
         <extracomment>YouTube OAuth page loading failure message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OAuth hitelesítési oldal betöltése sikertelen!</translation>
     </message>
     <message id="ytplayer-oauth-access-denied">
         <source>YouTube OAuth access denied!</source>
@@ -91,7 +91,7 @@
     <message id="ytplayer-oauth-failed">
         <source>OAuth authorization failed!</source>
         <extracomment>Error message informing the user about OAuth authorization failure</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OAuth hitelesítés sikertelen!</translation>
     </message>
     <message id="ytplayer-channel-unsubscribe">
         <source>Unsubscribe</source>
@@ -196,7 +196,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-label-application-license">
         <source>YTPlayer is licensed under 3-clause BSD License</source>
         <extracomment>Label displaying YTPlayer licensing information</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A YTPlayer a 3-clause BSD License szerint van licencelve.</translation>
     </message>
     <message id="ytplayer-action-third-party-software">
         <source>Third party software</source>
@@ -358,12 +358,12 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-order-video-count">
         <source>Video count</source>
         <extracomment>Label for video count ordering menu option</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Video száma</translation>
     </message>
     <message id="ytplayer-label-order-view-count">
         <source>View count</source>
         <extracomment>Label for view count ordering menu option</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Megtekintések száma</translation>
     </message>
     <message id="ytplayer-label-safe-search">
         <source>Safe search</source>
@@ -373,27 +373,27 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-safe-search-moderate">
         <source>Moderate</source>
         <extracomment>Label for moderate content search filtering option</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mérsékelt</translation>
     </message>
     <message id="ytplayer-label-safe-search-none">
         <source>None</source>
         <extracomment>Label for no search content filtering menu option</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Semmi</translation>
     </message>
     <message id="ytplayer-label-safe-search-strict">
         <source>Strict</source>
         <extracomment>Label for strict search content filtering menu option</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szigorú</translation>
     </message>
     <message id="ytplayer-label-published-before">
         <source>Published before</source>
         <extracomment>Label for published before search option menu</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kiadva ez előtt:</translation>
     </message>
     <message id="ytplayer-label-published-after">
         <source>Published after</source>
         <extracomment>Label for published after search option MenuItem</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kiadva ez után:</translation>
     </message>
     <message id="ytplayer-label-play">
         <source>Play</source>
@@ -408,22 +408,22 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-image-cache-size">
         <source>Image cache size</source>
         <extracomment>Label for image cache size slider</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kép gyorsítótár mérete</translation>
     </message>
     <message id="ytplayer-label-current-usage">
         <source>Current usage</source>
         <extracomment>Label for current cache usage label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Jelenlegi használat</translation>
     </message>
     <message id="ytplayer-label-api-req-cache-size">
         <source>YouTube API response cache size</source>
         <extracomment>Label for YouTube API response cache size slider</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>YouTube API válasz gyorsítótár mérete</translation>
     </message>
     <message id="ytplayer-label-video-queued">
         <source>Download queued</source>
         <extracomment>&quot;Label indicating video was queued for preload&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Letöltés sorbállítva</translation>
     </message>
     <message id="ytplayer-action-remove">
         <source>Remove</source>
@@ -487,7 +487,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-preferred-quality">
         <source>Preferred video quality</source>
         <extracomment>Label for preferred video quality selection combobox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kedvelt videóminőség</translation>
     </message>
     <message id="ytplayer-label-connection-type">
         <source>Connection type</source>
@@ -811,7 +811,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-status-stalled">
         <source>Stalled</source>
         <extracomment>Media player status indicating content loading has stalled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elakadva</translation>
     </message>
     <message id="ytplayer-status-invalid-media">
         <source>Invalid media</source>
@@ -821,17 +821,17 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-controls-hide-delay">
         <source>Controls hide delay</source>
         <extracomment>Label for slider changing video player controls hide delay</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kezelőszervek elrejtésének késleltetése</translation>
     </message>
     <message id="ytplayer-label-autopause">
         <source>Auto pause when deactivated</source>
         <extracomment>Label for video auto pause option on/off switch.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Háttérbe küldéskor automatikusan szünet</translation>
     </message>
     <message id="ytplayer-description-autopause">
         <source>Automatically pause video playback when application is deactivated.</source>
         <extracomment>Description of video auto pause option switch.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ha az alkalmazás háttérbe kerül, automatikusan szüneteljen a videólejátszás</translation>
     </message>
     <message id="ytplayer-label-quality-wifi">
         <source>Default video quality on WiFi</source>
@@ -846,12 +846,12 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-autoload">
         <source>Early video loading</source>
         <extracomment>Label for combo box allowing the user to change video autoload behavior.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Előzetes videó betöltés</translation>
     </message>
     <message id="ytplayer-description-autoload">
         <source>Start preloading video data before player page is activated.</source>
         <extracomment>Descripton for combo box allowing the user to change video autload behavior.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A videó betöltésének megkezdése a lejátszó oldal aktiválása előtt.</translation>
     </message>
     <message id="ytplayer-action-autoload-always">
         <source>Always</source>
