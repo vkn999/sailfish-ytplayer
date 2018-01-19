@@ -99,6 +99,13 @@
       ]
     },
     {
+      "name": "Português (Brasil)",
+      "code": "pt_BR",
+      "authors": [
+        "Rafael Vinicius Leite Mendes"
+      ]
+    },
+    {
       "name" : "Русский",
       "code" : "ru_RU",
       "authors" : [

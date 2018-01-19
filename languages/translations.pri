@@ -16,6 +16,7 @@ TRANSLATIONS += \
     languages/ja.ts \
     languages/nl_NL.ts \
     languages/pl_PL.ts \
+    languages/pt_BR.ts \
     languages/ru_RU.ts \
     languages/sv.ts \
     languages/tr.ts
