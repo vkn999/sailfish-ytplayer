@@ -36,7 +36,7 @@
     <message id="ytplayer-label-application-description">
         <source>Unofficial YouTube client for Sailfish OS</source>
         <extracomment>YTPlayer application description in about page</extracomment>
-        <translation>Onofficiële YouTube-app voor SailfishOS</translation>
+        <translation>Onofficiële YouTube-app voor Sailfish OS</translation>
     </message>
     <message id="ytplayer-label-version">
         <source>Version: %1</source>
@@ -66,17 +66,17 @@
     <message id="ytplayer-label-video-count">
         <source>Video count</source>
         <extracomment>Label for channel video count field</extracomment>
-        <translation>Aantal video&apos;s</translation>
+        <translation>Aantal video’s</translation>
     </message>
     <message id="ytplayer-label-latest-videos">
         <source>Latest videos</source>
         <extracomment>Label/Title for the list of latest videos in certain category</extracomment>
-        <translation>Nieuwste video&apos;s</translation>
+        <translation>Nieuwste video’s</translation>
     </message>
     <message id="ytplayer-oauth-page-loading-failed">
         <source>Failed to load OAuth authorization page!</source>
         <extracomment>YouTube OAuth page loading failure message</extracomment>
-        <translation>OAuth-authorisatiepagina laden mislukt!</translation>
+        <translation>OAuth-autorisatiepagina laden mislukt!</translation>
     </message>
     <message id="ytplayer-oauth-access-denied">
         <source>YouTube OAuth access denied!</source>
@@ -91,7 +91,7 @@
     <message id="ytplayer-oauth-failed">
         <source>OAuth authorization failed!</source>
         <extracomment>Error message informing the user about OAuth authorization failure</extracomment>
-        <translation>OAuth-authorisatie mislukt!</translation>
+        <translation>OAuth-autorisatie mislukt!</translation>
     </message>
     <message id="ytplayer-channel-unsubscribe">
         <source>Unsubscribe</source>
@@ -171,12 +171,12 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-title-subscription-videos">
         <source>Latest videos</source>
         <extracomment>YouTube latest subscribed videos page title</extracomment>
-        <translation>Nieuwste video&apos;s</translation>
+        <translation>Nieuwste video’s</translation>
     </message>
     <message id="ytplayer-action-latest-subscribed-videos">
         <source>Latest videos</source>
         <extracomment>Sub-Menu option responsible for showing latest subsribed videos page</extracomment>
-        <translation>Nieuwste video&apos;s</translation>
+        <translation>Nieuwste video’s</translation>
     </message>
     <message id="ytplayer-label-network-connection-retry">
         <source>Retry</source>
@@ -196,7 +196,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-label-application-license">
         <source>YTPlayer is licensed under 3-clause BSD License</source>
         <extracomment>Label displaying YTPlayer licensing information</extracomment>
-        <translation>YTPlayer is gelicenseerd met de uit 3 clausules bestaande BSD-licentie</translation>
+        <translation>YTPlayer is uitgegeven onder de uit 3 clausules bestaande BSD-licentie</translation>
     </message>
     <message id="ytplayer-action-third-party-software">
         <source>Third party software</source>
@@ -298,7 +298,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-video-license">
         <source>Video license</source>
         <extracomment>Label for video license combo box</extracomment>
-        <translation>Video-licentie</translation>
+        <translation>Videolicentie</translation>
     </message>
     <message id="ytplayer-label-cretive-commons-license">
         <source>Creative Commons</source>
@@ -358,7 +358,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-order-video-count">
         <source>Video count</source>
         <extracomment>Label for video count ordering menu option</extracomment>
-        <translation>Aantal video&apos;s</translation>
+        <translation>Aantal video’s</translation>
     </message>
     <message id="ytplayer-label-order-view-count">
         <source>View count</source>
@@ -437,7 +437,7 @@ Label for channel name text field</extracomment>
 Label informing the user there are not favorite videos
 ----------
 Label informing the user there are no watched recently videos</extracomment>
-        <translation>Geen video&apos;s</translation>
+        <translation>Geen video’s</translation>
     </message>
     <message id="ytplayer-label-video-downloaded">
         <source>Downloaded</source>
@@ -477,7 +477,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-title-downloaded-videos">
         <source>Downloaded videos</source>
         <extracomment>Title of downloaded videos page</extracomment>
-        <translation>Gedownloade video&apos;s</translation>
+        <translation>Gedownloade video’s</translation>
     </message>
     <message id="ytplayer-title-download-settings">
         <source>Download settings</source>
@@ -526,7 +526,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-wifi-only">
         <source>WiFi only</source>
         <extracomment>Menu option indicating downloads are allowed only when using WiFi</extracomment>
-        <translation>Alleen bij wifi-verbinding</translation>
+        <translation>Alleen bij wifiverbinding</translation>
     </message>
     <message id="ytplayer-action-wifi-cellular">
         <source>WiFi + Cellular</source>
@@ -751,7 +751,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-videos">
         <source>Videos</source>
         <extracomment>Main menu label indicating videos section of the page</extracomment>
-        <translation>Video&apos;s</translation>
+        <translation>Video’s</translation>
     </message>
     <message id="ytplayer-action-watched-recently">
         <source>Watched recently</source>
@@ -831,7 +831,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-description-autopause">
         <source>Automatically pause video playback when application is deactivated.</source>
         <extracomment>Description of video auto pause option switch.</extracomment>
-        <translation>Pauzeer automatisch het afspelen van video&apos;s indien de applicatie niet actief is.</translation>
+        <translation>Pauzeer automatisch het afspelen van video’s indien de applicatie niet actief is.</translation>
     </message>
     <message id="ytplayer-label-quality-wifi">
         <source>Default video quality on WiFi</source>
@@ -846,7 +846,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-autoload">
         <source>Early video loading</source>
         <extracomment>Label for combo box allowing the user to change video autoload behavior.</extracomment>
-        <translation>Video&apos;s vroeg laden</translation>
+        <translation>Video’s vroeg laden</translation>
     </message>
     <message id="ytplayer-description-autoload">
         <source>Start preloading video data before player page is activated.</source>
@@ -861,7 +861,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-autoload-wifi">
         <source>WiFi only</source>
         <extracomment>Menu option allowing the player to preaload video data only when using WiFi connection.</extracomment>
-        <translation>Alleen bij wifi-verbinding</translation>
+        <translation>Alleen bij wifiverbinding</translation>
     </message>
     <message id="ytplayer-action-autoload-cellular">
         <source>Cellular only</source>
