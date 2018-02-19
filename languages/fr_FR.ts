@@ -11,12 +11,12 @@
     <message id="ytplayer-label-search">
         <source>Search</source>
         <extracomment>Label of video search text field</extracomment>
-        <translation>Recherche</translation>
+        <translation>Rechercher</translation>
     </message>
     <message id="ytplayer-action-search">
         <source>Search</source>
         <extracomment>Menu option to show search page</extracomment>
-        <translation>Recherche</translation>
+        <translation>Rechercher</translation>
     </message>
     <message id="ytplayer-title-settings">
         <source>Settings</source>
@@ -36,7 +36,7 @@
     <message id="ytplayer-label-application-description">
         <source>Unofficial YouTube client for Sailfish OS</source>
         <extracomment>YTPlayer application description in about page</extracomment>
-        <translation>Client YouTube non-officiel pour Sailfish OS</translation>
+        <translation>Client YouTube natif (non-offic.) pour SFOS</translation>
     </message>
     <message id="ytplayer-label-version">
         <source>Version: %1</source>
@@ -51,7 +51,7 @@
     <message id="ytplayer-label-publish-date">
         <source>Published on</source>
         <extracomment>Label for video upload date field</extracomment>
-        <translation>Publiée le</translation>
+        <translation>Publié le</translation>
     </message>
     <message id="ytplayer-label-duration">
         <source>Duration</source>
@@ -61,7 +61,7 @@
     <message id="ytplayer-label-created-on">
         <source>Created on</source>
         <extracomment>Label for youtube channel creation date field</extracomment>
-        <translation>Créée le</translation>
+        <translation>Inscrit le</translation>
     </message>
     <message id="ytplayer-label-video-count">
         <source>Video count</source>
@@ -119,7 +119,7 @@
     <message id="ytplayer-label-network-offline">
         <source>Network Offline</source>
         <extracomment>Network offline screen label</extracomment>
-        <translation>Réseau déconnecté</translation>
+        <translation>Réseau hors-ligne</translation>
     </message>
     <message id="ytplayer-label-video-quality">
         <source>Video quality</source>
@@ -161,7 +161,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-title-recommended">
         <source>Recommended for you</source>
         <extracomment>YouTube recommendations page title</extracomment>
-        <translation>Recommandées pour vous</translation>
+        <translation>Quelques recommandations</translation>
     </message>
     <message id="ytplayer-title-subscribed-channels">
         <source>Subscribed channels</source>
@@ -196,12 +196,12 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-label-application-license">
         <source>YTPlayer is licensed under 3-clause BSD License</source>
         <extracomment>Label displaying YTPlayer licensing information</extracomment>
-        <translation>YTPlayer est soumis aux conditions de la Licence BSD 3-clause</translation>
+        <translation>YTPlayer est soumis aux conditions de la licence BSD 3-CL.</translation>
     </message>
     <message id="ytplayer-action-third-party-software">
         <source>Third party software</source>
         <extracomment>Label for button showing third party software listing page</extracomment>
-        <translation>Logiciel tiers</translation>
+        <translation>Logiciels tiers</translation>
     </message>
     <message id="ytplayer-title-license-viewer">
         <source>License</source>
@@ -211,7 +211,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-title-third-party-software">
         <source>Third party software</source>
         <extracomment>Third party software license page title</extracomment>
-        <translation>Logiciel tiers</translation>
+        <translation>Logiciels tiers</translation>
     </message>
     <message id="ytplayer-label-signing-in">
         <source>Signing in</source>
@@ -442,7 +442,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-video-downloaded">
         <source>Downloaded</source>
         <extracomment>Label indicating the video was downloaded to local device storage</extracomment>
-        <translation>Téléchargées</translation>
+        <translation>Téléchargée</translation>
     </message>
     <message id="ytplayer-title-cache-settings">
         <source>Cache settings</source>
@@ -472,7 +472,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-downloaded-videos">
         <source>Downloads</source>
         <extracomment>Menu option showing downloaded videos page</extracomment>
-        <translation>Téléchargements</translation>
+        <translation>Vidéos téléchargées</translation>
     </message>
     <message id="ytplayer-title-downloaded-videos">
         <source>Downloaded videos</source>
@@ -502,7 +502,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-description-autoresume">
         <source>On startup, resume all downloads which were either queued or in progress when YTPlayer was closed.</source>
         <extracomment>Description of video download auto resume switch in settings</extracomment>
-        <translation>Au démarrage, reprendre tous les téléchargements qui étaient en attente ou en cours lors de la fermeture de YTPlayer.</translation>
+        <translation>Au démarrage, reprendre tous les téléchargements qui étaient en cours ou en attente lors de la fermeture de YTPlayer.</translation>
     </message>
     <message id="ytplayer-label-download-paused">
         <source>Paused</source>
@@ -611,7 +611,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-msg-channel-subscribed">
         <source>Channel subscribed</source>
         <extracomment>Notification summary telling the user channel was succesfully subscribed</extracomment>
-        <translation>Abonné(e) à la chaîne</translation>
+        <translation>Abonné à la chaîne</translation>
     </message>
     <message id="ytplayer-msg-unsubscribing-channel">
         <source>Unsubscribing channel</source>
@@ -621,12 +621,12 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-msg-channel-unsubscribed">
         <source>Channel unsubscribed</source>
         <extracomment>Notification summary telling the user channel was succesfully unsubscribed</extracomment>
-        <translation>Désabonné(e) de la chaîne</translation>
+        <translation>Désabonné de la chaîne</translation>
     </message>
     <message id="ytplayer-action-copy-link-to-clipboard">
         <source>Copy link to clipboard</source>
         <extracomment>Menu option copying video link to clipboard</extracomment>
-        <translation>Copier le lien vers le presse-papier</translation>
+        <translation>Copier le lien dans le presse-papier</translation>
     </message>
     <message id="ytplayer-msg-link-copied">
         <source>Link copied</source>
@@ -656,7 +656,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-msg-direct-playback-impossible-desc">
         <source>YTPLayer failed to find usable video streams</source>
         <extracomment>Notification body explaining why direct video playback is not possible</extracomment>
-        <translation>YTPlayer n&apos;a pas trouvé de flux vidéo utilisable</translation>
+        <translation>YTPlayer n&apos;a pas trouvé de flux vidéo exploitable</translation>
     </message>
     <message id="ytplayer-msg-launching-browser">
         <source>Launching browser</source>
@@ -756,12 +756,12 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-watched-recently">
         <source>Watched recently</source>
         <extracomment>Menu opion showing recently watched videos page</extracomment>
-        <translation>Vues récemment</translation>
+        <translation>Derniers visionnages</translation>
     </message>
     <message id="ytplayer-title-watched-recently">
         <source>Watched recently</source>
         <extracomment>Title for recently watched videos page</extracomment>
-        <translation>Vues récemment</translation>
+        <translation>Derniers visionnages</translation>
     </message>
     <message id="ytplayer-acton-favorites">
         <source>Favorites</source>
@@ -851,7 +851,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-description-autoload">
         <source>Start preloading video data before player page is activated.</source>
         <extracomment>Descripton for combo box allowing the user to change video autload behavior.</extracomment>
-        <translation>Démarrer le préchargement de la vidéo avant le démarrage de la lecture.</translation>
+        <translation>Démarre le préchargement de la vidéo avant même que le lecteur ne soit mis en route.</translation>
     </message>
     <message id="ytplayer-action-autoload-always">
         <source>Always</source>

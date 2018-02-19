@@ -186,7 +186,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-action-about">
         <source>About</source>
         <extracomment>Menu option to show about page</extracomment>
-        <translation>Súgó</translation>
+        <translation>Névjegy</translation>
     </message>
     <message id="ytplayer-action-view-license">
         <source>View license</source>
