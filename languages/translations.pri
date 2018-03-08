@@ -4,7 +4,6 @@
 
 TRANSLATIONS += \
     languages/ca.ts \
-    languages/zh_TW.ts \
     languages/cs_CZ.ts \
     languages/de.ts \
     languages/el.ts \
@@ -20,7 +19,8 @@ TRANSLATIONS += \
     languages/pt_BR.ts \
     languages/ru_RU.ts \
     languages/sv.ts \
-    languages/tr.ts
+    languages/tr.ts \
+    languages/zh_TW.ts
 
 OTHER_FILES += languages/translations.json
 

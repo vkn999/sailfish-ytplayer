@@ -9,32 +9,11 @@
       ]
     },
     {
-      "name" : "Čeština",
-      "code" : "cs_CZ",
-      "authors" : [
-        "Bobsik"
-      ]
-    },
-    {
-      "name" : "Chinese (Taiwan)",
-      "code" : "zh_TW",
-      "authors" : [
-        "JIMMY CHEN"
-      ]
-    },
-    {
       "name" : "Deutsch",
       "code" : "de",
       "authors" : [
         "Björn Bidar <theodorstormgrade@gmail.com>",
         "Pascal Schmid"
-      ]
-    },
-    {
-      "name" : "Greek",
-      "code" : "el",
-      "authors" : [
-        "Dimitrios Glentadakis"
       ]
     },
     {
@@ -52,6 +31,50 @@
       ]
     },
     {
+      "name" : "Français (France)",
+      "code" : "fr_FR",
+      "authors" : [
+        "Rudy Nappée",
+        "lutinotmalin"
+      ]
+    },
+    {
+      "name" : "Italiano (Italia)",
+      "code" : "it_IT",
+      "authors" : [
+        "Gio Scino"
+      ]
+    },
+    {
+      "name" : "Magyar (Magyarország)",
+      "code" : "hu_HU",
+      "authors" : [
+        "Veronika Simonkay",
+        "leoka"
+      ]
+    },
+    {
+      "name" : "Nederlands (Nederland)",
+      "code" : "nl_NL",
+      "authors" : [
+        "Heimen Stoffels"
+      ]
+    },
+    {
+      "name" : "Polski (Polska)",
+      "code" : "pl_PL",
+      "authors": [
+        "pemekcz"
+      ]
+    },
+    {
+      "name" : "Português (Brasil)",
+      "code" : "pt_BR",
+      "authors": [
+        "Rafael Vinicius Leite Mendes"
+      ]
+    },
+    {
       "name" : "Suomi (Suomi)",
       "code" : "fi_FI",
       "authors" : [
@@ -60,65 +83,6 @@
         "Eero Sytelä",
         "Pauli Suomu",
         "Simo Ruoho"
-      ]
-    },
-    {
-      "name" : "Français",
-      "code" : "fr_FR",
-      "authors" : [
-        "Rudy Nappée",
-        "lutinotmalin"
-      ]
-    },
-    {
-      "name" : "Magyar (Magyar)",
-      "code" : "hu_HU",
-      "authors" : [
-        "Veronika Simonkay",
-        "leoka"
-      ]
-    },
-    {
-      "name" : "Italiano",
-      "code" : "it_IT",
-      "authors" : [
-        "Gio Scino"
-      ]
-    },
-    {
-      "name" : "日本語",
-      "code" : "ja",
-      "authors" : [
-        "Yamada Takashi"
-      ]
-    },
-    {
-      "name" : "Nederlands",
-      "code" : "nl_NL",
-      "authors" : [
-        "Heimen Stoffels"
-      ]
-    },
-    {
-      "name": "Polski",
-      "code": "pl_PL",
-      "authors": [
-        "pemekcz"
-      ]
-    },
-    {
-      "name": "Português (Brasil)",
-      "code": "pt_BR",
-      "authors": [
-        "Rafael Vinicius Leite Mendes"
-      ]
-    },
-    {
-      "name" : "Русский",
-      "code" : "ru_RU",
-      "authors" : [
-        "Петр Цымбарович <petr@tsymbarovich.ru>",
-        "Dmitrij D. Czarkoff <czarkoff@gmail.com>"
       ]
     },
     {
@@ -133,6 +97,42 @@
       "code" : "tr",
       "authors" : [
         "myusdat"
+      ]
+    },
+    {
+      "name" : "Čeština (Česká republika)",
+      "code" : "cs_CZ",
+      "authors" : [
+        "Bobsik"
+      ]
+    },
+    {
+      "name" : "Ελληνικά",
+      "code" : "el",
+      "authors" : [
+        "Dimitrios Glentadakis"
+      ]
+    },
+    {
+      "name" : "Русский",
+      "code" : "ru_RU",
+      "authors" : [
+        "Петр Цымбарович <petr@tsymbarovich.ru>",
+        "Dmitrij D. Czarkoff <czarkoff@gmail.com>"
+      ]
+    },
+    {
+      "name" : "日本語",
+      "code" : "ja",
+      "authors" : [
+        "Yamada Takashi"
+      ]
+    },
+    {
+      "name" : "繁體中文 (台灣)",
+      "code" : "zh_TW",
+      "authors" : [
+        "JIMMY CHEN"
       ]
     }
   ]
