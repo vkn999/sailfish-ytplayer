@@ -16,6 +16,13 @@
       ]
     },
     {
+      "name" : "Chinese (Taiwan)",
+      "code" : "zh_TW",
+      "authors" : [
+        "JIMMY CHEN"
+      ]
+    },
+    {
       "name" : "Deutsch",
       "code" : "de",
       "authors" : [

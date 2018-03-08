@@ -4,6 +4,7 @@
 
 TRANSLATIONS += \
     languages/ca.ts \
+    languages/zh_TW.ts \
     languages/cs_CZ.ts \
     languages/de.ts \
     languages/el.ts \
