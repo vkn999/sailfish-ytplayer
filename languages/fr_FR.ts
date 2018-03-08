@@ -11,7 +11,7 @@
     <message id="ytplayer-label-search">
         <source>Search</source>
         <extracomment>Label of video search text field</extracomment>
-        <translation>Rechercher</translation>
+        <translation>Que cherchez-vous ?</translation>
     </message>
     <message id="ytplayer-action-search">
         <source>Search</source>
@@ -36,7 +36,7 @@
     <message id="ytplayer-label-application-description">
         <source>Unofficial YouTube client for Sailfish OS</source>
         <extracomment>YTPlayer application description in about page</extracomment>
-        <translation>Client YouTube natif (non-offic.) pour SFOS</translation>
+        <translation>Un client YouTube pour Sailfish OS.</translation>
     </message>
     <message id="ytplayer-label-version">
         <source>Version: %1</source>
