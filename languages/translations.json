@@ -71,7 +71,8 @@
       "name" : "Português (Brasil)",
       "code" : "pt_BR",
       "authors": [
-        "Rafael Vinicius Leite Mendes"
+        "Rafael Vinicius Leite Mendes",
+        "Ivanor Paula"
       ]
     },
     {
@@ -126,6 +127,13 @@
       "code" : "ja",
       "authors" : [
         "Yamada Takashi"
+      ]
+    },
+    {
+      "name" : "简体中文 (中国)",
+      "code" : "zh_CN",
+      "authors" : [
+        "JIMMY CHEN"
       ]
     },
     {

@@ -20,6 +20,7 @@ TRANSLATIONS += \
     languages/ru_RU.ts \
     languages/sv.ts \
     languages/tr.ts \
+    languages/zh_CN.ts \
     languages/zh_TW.ts
 
 OTHER_FILES += languages/translations.json

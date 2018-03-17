@@ -6,7 +6,7 @@
     <message id="ytplayer-title-video-categories">
         <source>Video categories</source>
         <extracomment>Video categories page title</extracomment>
-        <translation>影片種類</translation>
+        <translation>影片類別</translation>
     </message>
     <message id="ytplayer-label-search">
         <source>Search</source>
@@ -76,7 +76,7 @@
     <message id="ytplayer-oauth-page-loading-failed">
         <source>Failed to load OAuth authorization page!</source>
         <extracomment>YouTube OAuth page loading failure message</extracomment>
-        <translation>OAuth驗證頁面載入失敗!</translation>
+        <translation>OAuth授權頁面載入失敗!</translation>
     </message>
     <message id="ytplayer-oauth-access-denied">
         <source>YouTube OAuth access denied!</source>
@@ -91,7 +91,7 @@
     <message id="ytplayer-oauth-failed">
         <source>OAuth authorization failed!</source>
         <extracomment>Error message informing the user about OAuth authorization failure</extracomment>
-        <translation>OAuth驗證失敗!</translation>
+        <translation>OAuth授權失敗!</translation>
     </message>
     <message id="ytplayer-channel-unsubscribe">
         <source>Unsubscribe</source>
@@ -105,7 +105,7 @@
     <message id="ytplayer-action-video-categories">
         <source>Categories</source>
         <extracomment>Menu option to show video categories page</extracomment>
-        <translation>種類</translation>
+        <translation>類別</translation>
     </message>
     <message id="ytplayer-search-no-results">
         <source>No results</source>
@@ -161,7 +161,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-title-recommended">
         <source>Recommended for you</source>
         <extracomment>YouTube recommendations page title</extracomment>
-        <translation>推薦給你</translation>
+        <translation>推薦給您</translation>
     </message>
     <message id="ytplayer-title-subscribed-channels">
         <source>Subscribed channels</source>
@@ -191,12 +191,12 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-action-view-license">
         <source>View license</source>
         <extracomment>Button for showing license viewer page</extracomment>
-        <translation>查看許可證</translation>
+        <translation>檢視許可證</translation>
     </message>
     <message id="ytplayer-label-application-license">
         <source>YTPlayer is licensed under 3-clause BSD License</source>
         <extracomment>Label displaying YTPlayer licensing information</extracomment>
-        <translation>YTPlayer透過3-clause BSD License授權釋出</translation>
+        <translation>YTPlayer獲得3-clause BSD許可證</translation>
     </message>
     <message id="ytplayer-action-third-party-software">
         <source>Third party software</source>
@@ -221,7 +221,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-title-search-options">
         <source>Search options</source>
         <extracomment>Search options page title</extracomment>
-        <translation>搜尋選項</translation>
+        <translation>搜尋條件</translation>
     </message>
     <message id="ytplayer-label-advanced">
         <source>Advanced</source>
@@ -288,7 +288,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-video-episode">
         <source>Episode</source>
         <extracomment>Label for episode video type</extracomment>
-        <translation>影集</translation>
+        <translation>集</translation>
     </message>
     <message id="ytplayer-label-video-movie">
         <source>Movie</source>
@@ -303,7 +303,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-cretive-commons-license">
         <source>Creative Commons</source>
         <extracomment>Label for Creative Commons license type</extracomment>
-        <translation>新增留言</translation>
+        <translation>創作共用</translation>
     </message>
     <message id="ytplayer-label-youtube-license">
         <source>YouTube</source>
@@ -333,7 +333,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-results-order-by">
         <source>Order by</source>
         <extracomment>Label for search result ordering combo box</extracomment>
-        <translation>排序</translation>
+        <translation>排序方式</translation>
     </message>
     <message id="ytplayer-label-order-relevance">
         <source>Relevance</source>
@@ -373,7 +373,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-safe-search-moderate">
         <source>Moderate</source>
         <extracomment>Label for moderate content search filtering option</extracomment>
-        <translation>適當</translation>
+        <translation>適中</translation>
     </message>
     <message id="ytplayer-label-safe-search-none">
         <source>None</source>
@@ -413,22 +413,22 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-current-usage">
         <source>Current usage</source>
         <extracomment>Label for current cache usage label</extracomment>
-        <translation>最近使用量</translation>
+        <translation>目前使用量</translation>
     </message>
     <message id="ytplayer-label-api-req-cache-size">
         <source>YouTube API response cache size</source>
         <extracomment>Label for YouTube API response cache size slider</extracomment>
-        <translation>YouTube API回應的快取大小</translation>
+        <translation>YouTube API響應快取大小</translation>
     </message>
     <message id="ytplayer-label-video-queued">
         <source>Download queued</source>
         <extracomment>&quot;Label indicating video was queued for preload&quot;</extracomment>
-        <translation>下載排隊</translation>
+        <translation>等待下載中</translation>
     </message>
     <message id="ytplayer-action-remove">
         <source>Remove</source>
         <extracomment>Menu action to remove the element from the list</extracomment>
-        <translation>移除</translation>
+        <translation>刪除</translation>
     </message>
     <message id="ytplayer-label-no-videos">
         <source>No videos</source>
@@ -477,7 +477,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-title-downloaded-videos">
         <source>Downloaded videos</source>
         <extracomment>Title of downloaded videos page</extracomment>
-        <translation>影片已下載</translation>
+        <translation>下載</translation>
     </message>
     <message id="ytplayer-title-download-settings">
         <source>Download settings</source>
@@ -487,7 +487,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-preferred-quality">
         <source>Preferred video quality</source>
         <extracomment>Label for preferred video quality selection combobox</extracomment>
-        <translation>影片優先畫質</translation>
+        <translation>下載優先畫質</translation>
     </message>
     <message id="ytplayer-label-connection-type">
         <source>Connection type</source>
@@ -502,7 +502,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-description-autoresume">
         <source>On startup, resume all downloads which were either queued or in progress when YTPlayer was closed.</source>
         <extracomment>Description of video download auto resume switch in settings</extracomment>
-        <translation>啟動時自動繼續下載之前未完成或是排隊中的影片</translation>
+        <translation>啟動時自動繼續下載之前未完成的影片</translation>
     </message>
     <message id="ytplayer-label-download-paused">
         <source>Paused</source>
@@ -511,7 +511,7 @@ Label informing the user there are no watched recently videos</extracomment>
     </message>
     <message id="ytplayer-label-download-queued">
         <source>Queued</source>
-        <translation>已排隊</translation>
+        <translation>等待中</translation>
     </message>
     <message id="ytplayer-action-resume">
         <source>Resume</source>
@@ -571,22 +571,22 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-remove-download">
         <source>Remove download</source>
         <extracomment>Menu option allowing the user to remove downloaded video</extracomment>
-        <translation>移除下載</translation>
+        <translation>刪除已下載的影片</translation>
     </message>
     <message id="ytplayer-msg-cancelling-download">
         <source>Cancelling download</source>
         <extracomment>Remorse popup message telling the user video download will be cancelled</extracomment>
-        <translation>下載取消中</translation>
+        <translation>將取消下載於</translation>
     </message>
     <message id="ytplayer-msg-removing-download">
         <source>Removing download</source>
         <extracomment>Remorse popup message telling the user video download will be removed</extracomment>
-        <translation>下載移除中</translation>
+        <translation>將刪除已下載的影片於</translation>
     </message>
     <message id="ytplayer-msg-clearing-cache">
         <source>Clearing cache</source>
         <extracomment>Remorse popup message telling the user the cache will be cleaned</extracomment>
-        <translation>清除快取</translation>
+        <translation>將清除快取於</translation>
     </message>
     <message id="ytplayer-action-cache-settings">
         <source>Cache</source>
@@ -616,7 +616,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-msg-unsubscribing-channel">
         <source>Unsubscribing channel</source>
         <extracomment>Remorse popup message telling the user channel is about to be unsubscribed</extracomment>
-        <translation>取消訂閱中</translation>
+        <translation>將取消頻道訂閱於</translation>
     </message>
     <message id="ytplayer-msg-channel-unsubscribed">
         <source>Channel unsubscribed</source>
@@ -651,12 +651,12 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-msg-direct-playback-impossible">
         <source>No video streams available</source>
         <extracomment>Notification summary informing the user direct video playback is not possible</extracomment>
-        <translation>無可使用的影片串流</translation>
+        <translation>找不當可使用的影片串流</translation>
     </message>
     <message id="ytplayer-msg-direct-playback-impossible-desc">
         <source>YTPLayer failed to find usable video streams</source>
         <extracomment>Notification body explaining why direct video playback is not possible</extracomment>
-        <translation>YTPlayer無法找到可使用的影片串流</translation>
+        <translation>YTPlayer無法找到可用的影片串流</translation>
     </message>
     <message id="ytplayer-msg-launching-browser">
         <source>Launching browser</source>
@@ -666,12 +666,12 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-clear-history">
         <source>Clear history</source>
         <extracomment>Menu option allowing the user to clear search history</extracomment>
-        <translation>清除歷史紀錄</translation>
+        <translation>清除搜尋紀錄</translation>
     </message>
     <message id="ytplayer-msg-clearing-history">
         <source>Clearing history</source>
         <extracomment>&quot;Remorse popup message telling the user search history is about to be cleared&quot;</extracomment>
-        <translation>歷史紀錄清除中</translation>
+        <translation>將清除搜尋紀錄於</translation>
     </message>
     <message id="ytplayer-title-search-settings">
         <source>Search settings</source>
@@ -691,7 +691,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-history-suggestion-engine">
         <source>Search history</source>
         <extracomment>Label for history based search suggestion engine</extracomment>
-        <translation>搜尋歷史紀錄</translation>
+        <translation>搜尋紀錄</translation>
     </message>
     <message id="ytplayer-action-search-settings">
         <source>Search</source>
@@ -716,7 +716,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-view-logs">
         <source>View logs</source>
         <extracomment>Label for menu option showing application log viewer</extracomment>
-        <translation>查看紀錄</translation>
+        <translation>檢視紀錄</translation>
     </message>
     <message id="ytplayer-title-language-settings">
         <source>Language settings</source>
@@ -776,12 +776,12 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-hide-search">
         <source>Hide search</source>
         <extracomment>Menu option allowing the user to hide search field</extracomment>
-        <translation>隱藏搜尋</translation>
+        <translation>關閉搜尋列</translation>
     </message>
     <message id="ytplayer-msg-removing-favorite">
         <source>Removing favorite</source>
         <extracomment>Remorse popup message telling the use favorite is about to be removed</extracomment>
-        <translation>移除我的最愛中</translation>
+        <translation>將從我的最愛中刪除此影片於</translation>
     </message>
     <message id="ytplayer-title-player-settings">
         <source>Player settings</source>
@@ -821,27 +821,27 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-controls-hide-delay">
         <source>Controls hide delay</source>
         <extracomment>Label for slider changing video player controls hide delay</extracomment>
-        <translation>抑制隱藏的延遲</translation>
+        <translation>全螢幕播放時控制列顯示時間</translation>
     </message>
     <message id="ytplayer-label-autopause">
         <source>Auto pause when deactivated</source>
         <extracomment>Label for video auto pause option on/off switch.</extracomment>
-        <translation>停用時自動暫停</translation>
+        <translation>自動暫停播放</translation>
     </message>
     <message id="ytplayer-description-autopause">
         <source>Automatically pause video playback when application is deactivated.</source>
         <extracomment>Description of video auto pause option switch.</extracomment>
-        <translation>應用程序停用時自動暫停影片播放。</translation>
+        <translation>切換App於背景執行時自動暫停播放。</translation>
     </message>
     <message id="ytplayer-label-quality-wifi">
         <source>Default video quality on WiFi</source>
         <extracomment>Label for combo box allowing the user to change default video quality when using WiFi connection.</extracomment>
-        <translation>透過WiFi連線的預設影片畫質</translation>
+        <translation>透過WiFi連線的預設畫質</translation>
     </message>
     <message id="ytplayer-label-quality-cellular">
         <source>Default video quality on cellular</source>
         <extracomment>Label for combo box allowing the user to change default video quality when using cellular connection.</extracomment>
-        <translation>透過行動網路連線的預設影片畫質</translation>
+        <translation>透過行動網路連線的預設畫質</translation>
     </message>
     <message id="ytplayer-label-autoload">
         <source>Early video loading</source>
@@ -851,7 +851,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-description-autoload">
         <source>Start preloading video data before player page is activated.</source>
         <extracomment>Descripton for combo box allowing the user to change video autload behavior.</extracomment>
-        <translation>在播放頁面啟動前開始預載影片</translation>
+        <translation>在播放頁面啟動前預先載入影片</translation>
     </message>
     <message id="ytplayer-action-autoload-always">
         <source>Always</source>
@@ -876,12 +876,12 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-broken-image">
         <source>No image</source>
         <extracomment>Label shown where video thumbnail is not valid, can&apos;t be loaded. Should be very short 8-10 characters max.</extracomment>
-        <translation>無影像</translation>
+        <translation>找不到影像</translation>
     </message>
     <message id="ytplayer-label-no-streams">
         <source>No streams!</source>
         <extracomment>Label indicating current video has no valid streams. It replaces Play button in the video overview page header.</extracomment>
-        <translation>無串流!</translation>
+        <translation>找不到串流!</translation>
     </message>
     <message id="ytplayer-msg-video-unavailable">
         <source>Video no longer available</source>
@@ -891,7 +891,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-msg-video-unavailable-desc">
         <source>Video was removed from YouTube</source>
         <extracomment>Notification body explaining why video is no longer available.</extracomment>
-        <translation>影片已從Youtube移除</translation>
+        <translation>影片已從Youtube刪除</translation>
     </message>
     <message id="ytplayer-label-channel-unavailable">
         <source>Channel no longer available</source>
