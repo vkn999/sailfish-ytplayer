@@ -151,7 +151,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-action-likes">
         <source>Likes</source>
         <extracomment>Menu option responsible for showing user likes page</extracomment>
-        <translation>踩过的视频</translation>
+        <translation>顶过的视频</translation>
     </message>
     <message id="ytplayer-action-dislikes">
         <source>Dislikes</source>

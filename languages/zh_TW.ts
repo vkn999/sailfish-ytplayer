@@ -191,12 +191,12 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-action-view-license">
         <source>View license</source>
         <extracomment>Button for showing license viewer page</extracomment>
-        <translation>檢視許可證</translation>
+        <translation>檢視授權條款</translation>
     </message>
     <message id="ytplayer-label-application-license">
         <source>YTPlayer is licensed under 3-clause BSD License</source>
         <extracomment>Label displaying YTPlayer licensing information</extracomment>
-        <translation>YTPlayer獲得3-clause BSD許可證</translation>
+        <translation>YTPlayer是採用3-clause BSD授權條款授權</translation>
     </message>
     <message id="ytplayer-action-third-party-software">
         <source>Third party software</source>
@@ -206,7 +206,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-title-license-viewer">
         <source>License</source>
         <extracomment>License viewer page title</extracomment>
-        <translation>許可證</translation>
+        <translation>授權條款</translation>
     </message>
     <message id="ytplayer-title-third-party-software">
         <source>Third party software</source>
@@ -298,7 +298,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-video-license">
         <source>Video license</source>
         <extracomment>Label for video license combo box</extracomment>
-        <translation>影片許可證</translation>
+        <translation>影片授權條款</translation>
     </message>
     <message id="ytplayer-label-cretive-commons-license">
         <source>Creative Commons</source>
@@ -776,7 +776,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-hide-search">
         <source>Hide search</source>
         <extracomment>Menu option allowing the user to hide search field</extracomment>
-        <translation>關閉搜尋列</translation>
+        <translation>隱藏搜尋</translation>
     </message>
     <message id="ytplayer-msg-removing-favorite">
         <source>Removing favorite</source>

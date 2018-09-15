@@ -31,12 +31,12 @@
     <message id="ytplayer-title-about">
         <source>About YTPlayer</source>
         <extracomment>Title of about page</extracomment>
-        <translation>Tietoa YTPlayerista</translation>
+        <translation>Tietoa sovelluksesta: YTPlayer</translation>
     </message>
     <message id="ytplayer-label-application-description">
         <source>Unofficial YouTube client for Sailfish OS</source>
         <extracomment>YTPlayer application description in about page</extracomment>
-        <translation>YouTuben epävirallinen asiakassovellus SailfishOS:lle</translation>
+        <translation>YouTuben epävirallinen asiakassovellus Sailfish -käyttöjärjestelmälle</translation>
     </message>
     <message id="ytplayer-label-version">
         <source>Version: %1</source>
@@ -71,7 +71,7 @@
     <message id="ytplayer-label-latest-videos">
         <source>Latest videos</source>
         <extracomment>Label/Title for the list of latest videos in certain category</extracomment>
-        <translation>Viimeisimmät elokuvat</translation>
+        <translation>Viimeisimmät videot</translation>
     </message>
     <message id="ytplayer-oauth-page-loading-failed">
         <source>Failed to load OAuth authorization page!</source>
@@ -100,7 +100,7 @@
     </message>
     <message id="ytplayer-channel-subscribe">
         <source>Subscribe</source>
-        <translation>Tilaa</translation>
+        <translation>Tilaa kanava</translation>
     </message>
     <message id="ytplayer-action-video-categories">
         <source>Categories</source>
@@ -141,12 +141,12 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-action-recommended">
         <source>Recommendations</source>
         <extracomment>Menu option fo show YouTube recommendations page</extracomment>
-        <translation>Suosituksia</translation>
+        <translation>Suositellut</translation>
     </message>
     <message id="ytplayer-action-subscriptions">
         <source>Subscriptions</source>
         <extracomment>Menu option responsible for showing user subscriptions page</extracomment>
-        <translation>Tilauksia</translation>
+        <translation>Tilatut kanavat</translation>
     </message>
     <message id="ytplayer-action-likes">
         <source>Likes</source>
@@ -161,7 +161,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-title-recommended">
         <source>Recommended for you</source>
         <extracomment>YouTube recommendations page title</extracomment>
-        <translation>Suositellut</translation>
+        <translation>Sinulle suositeltuja</translation>
     </message>
     <message id="ytplayer-title-subscribed-channels">
         <source>Subscribed channels</source>
@@ -226,12 +226,12 @@ Label for menu option allowing the user to change video quality</extracomment>
     <message id="ytplayer-label-advanced">
         <source>Advanced</source>
         <extracomment>Generic options menu/button label</extracomment>
-        <translation>Vaativammat</translation>
+        <translation>Lisäasetukset</translation>
     </message>
     <message id="ytplayer-label-result-type">
         <source>Result type</source>
         <extracomment>Label for YouTube content type search combo box</extracomment>
-        <translation>Suodattimet</translation>
+        <translation>Hakutulosten vaihtoehdot</translation>
     </message>
     <message id="ytplayer-label-any">
         <source>Any</source>
@@ -348,7 +348,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-order-rating">
         <source>Rating</source>
         <extracomment>Label for rating ordering menu option</extracomment>
-        <translation>Annetut tähdet</translation>
+        <translation>Luokitus</translation>
     </message>
     <message id="ytplayer-label-order-title">
         <source>Title</source>
@@ -368,7 +368,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-safe-search">
         <source>Safe search</source>
         <extracomment>Label for safe search combo box</extracomment>
-        <translation>Rajoitettu tila</translation>
+        <translation>Turvallinen haku</translation>
     </message>
     <message id="ytplayer-label-safe-search-moderate">
         <source>Moderate</source>
@@ -408,7 +408,7 @@ Label for channel name text field</extracomment>
     <message id="ytplayer-label-image-cache-size">
         <source>Image cache size</source>
         <extracomment>Label for image cache size slider</extracomment>
-        <translation>Kuvan välimuisti koko</translation>
+        <translation>Kuvan välimuistin koko</translation>
     </message>
     <message id="ytplayer-label-current-usage">
         <source>Current usage</source>
@@ -472,7 +472,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-downloaded-videos">
         <source>Downloads</source>
         <extracomment>Menu option showing downloaded videos page</extracomment>
-        <translation>Lataukset</translation>
+        <translation>Ladatut videot</translation>
     </message>
     <message id="ytplayer-title-downloaded-videos">
         <source>Downloaded videos</source>
@@ -502,7 +502,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-description-autoresume">
         <source>On startup, resume all downloads which were either queued or in progress when YTPlayer was closed.</source>
         <extracomment>Description of video download auto resume switch in settings</extracomment>
-        <translation>Käynnistyessä jatkaa kaikkien sekä käynnissä olevien että jonossa olevien videoiden lataamista siitä mihin lataaminen YouTuben viimeksi sulkeutuessa keskeytyi.</translation>
+        <translation>Käynnistyessä jatkaa kaikkien sekä käynnissä olevien että jonossa olevien videoiden lataamista siitä, mihin lataaminen YouTuben viimeksi sulkeutuessa keskeytyi.</translation>
     </message>
     <message id="ytplayer-label-download-paused">
         <source>Paused</source>
@@ -596,7 +596,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-download-settings">
         <source>Download</source>
         <extracomment>Label for menu option showing video download settings page</extracomment>
-        <translation>Lataa</translation>
+        <translation>Lataaminen</translation>
     </message>
     <message id="ytplayer-label-account-integration">
         <source>YouTube account integration</source>
@@ -796,7 +796,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-status-looking-for-streams">
         <source>Looking for streams</source>
         <extracomment>Status message indicating video player is looking for audio/video streams</extracomment>
-        <translation>Etsitään videotoistoa</translation>
+        <translation>Etsitään toistettavia videoita</translation>
     </message>
     <message id="ytplayer-status-buffering">
         <source>Buffering: %1%</source>
@@ -881,7 +881,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-label-no-streams">
         <source>No streams!</source>
         <extracomment>Label indicating current video has no valid streams. It replaces Play button in the video overview page header.</extracomment>
-        <translation>Ei toistettavissa!</translation>
+        <translation>Ei toistettavia videoita!</translation>
     </message>
     <message id="ytplayer-msg-video-unavailable">
         <source>Video no longer available</source>
@@ -891,7 +891,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-msg-video-unavailable-desc">
         <source>Video was removed from YouTube</source>
         <extracomment>Notification body explaining why video is no longer available.</extracomment>
-        <translation>Video on poistettu YouTube:sta</translation>
+        <translation>Video on poistettu YouTube:lta</translation>
     </message>
     <message id="ytplayer-label-channel-unavailable">
         <source>Channel no longer available</source>
@@ -901,7 +901,7 @@ Label informing the user there are no watched recently videos</extracomment>
     <message id="ytplayer-action-translate-app">
         <source>Translate YTPlayer</source>
         <extracomment>Menu option opening a link to YTPlayer translation page on Transifex.</extracomment>
-        <translation>Käännä YTPlayer toiselle kielelle</translation>
+        <translation>Osallistu YTPlayer-sovelluksen käännöstyöhön</translation>
     </message>
 </context>
 </TS>
