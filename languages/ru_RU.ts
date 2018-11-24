@@ -1,6 +1,8 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ru_RU" sourcelanguage="en" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ru_RU" sourcelanguage="en">
 <context>
-    <name/>
+    <name></name>
     <message id="ytplayer-title-video-categories">
         <source>Video categories</source>
         <extracomment>Video categories page title</extracomment>
@@ -78,7 +80,7 @@
         <translation>Не удалось загрузить страницу авторизации OAuth!</translation>
     </message>
     <message id="ytplayer-oauth-access-denied">
-        <source>YouTube OAuth access denined!</source>
+        <source>YouTube OAuth access denied!</source>
         <extracomment>Message informing the user about YouTube OAuth autorization denial</extracomment>
         <translation>Доступ запрещен!</translation>
     </message>
@@ -117,9 +119,7 @@
     </message>
     <message id="ytplayer-label-network-offline">
         <source>Network Offline</source>
-        <extracomment>Network offline screen label
-----------
-Network offline screen label</extracomment>
+        <extracomment>Network offline screen label</extracomment>
         <translation>Нет сети</translation>
     </message>
     <message id="ytplayer-label-video-quality">
@@ -191,16 +191,13 @@ Label for menu option allowing the user to change video quality</extracomment>
     </message>
     <message id="ytplayer-action-view-license">
         <source>View license</source>
-        <extracomment>Button for showing license viewer page
-----------
-Button for showing license viewer page</extracomment>
+        <extracomment>Button for showing license viewer page</extracomment>
         <translation>Лицензия</translation>
     </message>
     <message id="ytplayer-label-application-license">
         <source>YTPlayer is licensed under 3-clause BSD License</source>
         <extracomment>Label displaying YTPlayer licensing information</extracomment>
-        <translation>YTPlayer распространяется под лицензией
-3-clause BSD</translation>
+        <translation>YTPlayer распространяется на условиях 3-clause BSD</translation>
     </message>
     <message id="ytplayer-action-third-party-software">
         <source>Third party software</source>
@@ -416,9 +413,7 @@ Label for channel name text field</extracomment>
     </message>
     <message id="ytplayer-label-current-usage">
         <source>Current usage</source>
-        <extracomment>Label for current cache usage label
-----------
-Label for current cache usage label</extracomment>
+        <extracomment>Label for current cache usage label</extracomment>
         <translation>Сейчас используется</translation>
     </message>
     <message id="ytplayer-label-api-req-cache-size">
@@ -433,9 +428,7 @@ Label for current cache usage label</extracomment>
     </message>
     <message id="ytplayer-action-remove">
         <source>Remove</source>
-        <extracomment>Menu action to remove the element from the list
-----------
-Menu action to remove the element from the list</extracomment>
+        <extracomment>Menu action to remove the element from the list</extracomment>
         <translation>Удалить</translation>
     </message>
     <message id="ytplayer-label-no-videos">
@@ -508,7 +501,7 @@ Label informing the user there are no watched recently videos</extracomment>
         <translation>Автоматически продолжать загрузки</translation>
     </message>
     <message id="ytplayer-description-autoresume">
-        <source>On startup, resume all downloads which were either quened or in progress when YTPlayer was closed.</source>
+        <source>On startup, resume all downloads which were either queued or in progress when YTPlayer was closed.</source>
         <extracomment>Description of video download auto resume switch in settings</extracomment>
         <translation>Автоматически продолжать все незавершенные загрузки или загрузки в очереди при старте.</translation>
     </message>
@@ -583,16 +576,12 @@ Label informing the user there are no watched recently videos</extracomment>
     </message>
     <message id="ytplayer-msg-cancelling-download">
         <source>Cancelling download</source>
-        <extracomment>Remorse popup message telling the user video download will be cancelled
-----------
-Remorse popup message telling the user video download will be cancelled</extracomment>
+        <extracomment>Remorse popup message telling the user video download will be cancelled</extracomment>
         <translation>Отмена загрузки</translation>
     </message>
     <message id="ytplayer-msg-removing-download">
         <source>Removing download</source>
-        <extracomment>Remorse popup message telling the user video download will be removed
-----------
-Remorse popup message telling the user video download will be removed</extracomment>
+        <extracomment>Remorse popup message telling the user video download will be removed</extracomment>
         <translation>Удаление загрузки</translation>
     </message>
     <message id="ytplayer-msg-clearing-cache">
@@ -613,12 +602,12 @@ Remorse popup message telling the user video download will be removed</extracomm
     <message id="ytplayer-label-account-integration">
         <source>YouTube account integration</source>
         <extracomment>Label of switch activating/deactivating YouTube account integration</extracomment>
-        <translation>Интеграция с аккаунтом YouTube</translation>
+        <translation>Использовать учётную запись YouTube</translation>
     </message>
     <message id="ytplayer-description-account-integration">
         <source>Allow YTPlayer to manage YouTube user account.</source>
         <extracomment>Description of switch activating/deactivating YouTube account integration</extracomment>
-        <translation>Разрешить YTPlayer управлять аккаунтом YouTube.</translation>
+        <translation>Разрешить YTPlayer управлять учётной записью YouTube.</translation>
     </message>
     <message id="ytplayer-msg-channel-subscribed">
         <source>Channel subscribed</source>
@@ -662,7 +651,6 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-msg-direct-playback-impossible">
         <source>No video streams available</source>
-        <oldsource>Direct video playback not possible</oldsource>
         <extracomment>Notification summary informing the user direct video playback is not possible</extracomment>
         <translation>Видео недоступно</translation>
     </message>
@@ -714,22 +702,22 @@ Remorse popup message telling the user video download will be removed</extracomm
     <message id="ytplayer-action-save-log">
         <source>Save log</source>
         <extracomment>Menu action allowing the user to save application log</extracomment>
-        <translation>Сохранить лог</translation>
+        <translation>Сохранить журнал</translation>
     </message>
     <message id="ytplayer-msg-saving-log">
         <source>Saving log</source>
         <extracomment>Remorse popup message telling the user log file will be saved</extracomment>
-        <translation>Сохранение лога</translation>
+        <translation>Сохранение журнала</translation>
     </message>
     <message id="ytplayer-msg-log-saved">
         <source>Log saved</source>
         <extracomment>Body of notification informing the user application log was saved</extracomment>
-        <translation>Лог сохранен</translation>
+        <translation>Журнал сохранен</translation>
     </message>
     <message id="ytplayer-action-view-logs">
         <source>View logs</source>
         <extracomment>Label for menu option showing application log viewer</extracomment>
-        <translation>Просмотр логов</translation>
+        <translation>Просмотр журнала</translation>
     </message>
     <message id="ytplayer-title-language-settings">
         <source>Language settings</source>
@@ -788,10 +776,8 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-action-hide-search">
         <source>Hide search</source>
-        <extracomment>Menu option allowing the user to hide search field
-----------
-Menu option allowing the user to hide search field</extracomment>
-        <translation>Спрятать строку поиска</translation>
+        <extracomment>Menu option allowing the user to hide search field</extracomment>
+        <translation>Убрать строку поиска</translation>
     </message>
     <message id="ytplayer-msg-removing-favorite">
         <source>Removing favorite</source>
@@ -835,7 +821,7 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-label-controls-hide-delay">
         <source>Controls hide delay</source>
-        <extracomment>Lael for slider changing video player controls hide delay</extracomment>
+        <extracomment>Label for slider changing video player controls hide delay</extracomment>
         <translation>Показывать меню</translation>
     </message>
     <message id="ytplayer-label-autopause">
@@ -845,7 +831,6 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-description-autopause">
         <source>Automatically pause video playback when application is deactivated.</source>
-        <oldsource>Automatically pause video playback when application is deactivated</oldsource>
         <extracomment>Description of video auto pause option switch.</extracomment>
         <translation>Автоматически поставить на паузу при сворачивании приложения.</translation>
     </message>
@@ -891,7 +876,7 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-label-broken-image">
         <source>No image</source>
-        <extracomment>Label shown where video thumbnail is not valid, can't be loaded. Should be very short 8-10 characters max.</extracomment>
+        <extracomment>Label shown where video thumbnail is not valid, can&apos;t be loaded. Should be very short 8-10 characters max.</extracomment>
         <translation>Нет заставки</translation>
     </message>
     <message id="ytplayer-label-no-streams">
@@ -901,13 +886,11 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-msg-video-unavailable">
         <source>Video no longer available</source>
-        <oldsource>Video no longer available!</oldsource>
         <extracomment>Notification summary informing the user video is no longer available.</extracomment>
         <translation>Видео больше недоступно</translation>
     </message>
     <message id="ytplayer-msg-video-unavailable-desc">
         <source>Video was removed from YouTube</source>
-        <oldsource>Video was removed from YouTube.</oldsource>
         <extracomment>Notification body explaining why video is no longer available.</extracomment>
         <translation>Видео удалено с YouTube</translation>
     </message>

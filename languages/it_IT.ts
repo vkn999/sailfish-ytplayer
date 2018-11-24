@@ -1,6 +1,8 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="it_IT" sourcelanguage="en" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="it_IT" sourcelanguage="en">
 <context>
-    <name/>
+    <name></name>
     <message id="ytplayer-title-video-categories">
         <source>Video categories</source>
         <extracomment>Video categories page title</extracomment>
@@ -77,7 +79,7 @@
         <translation>Impossibile caricare la pagina di autorizzazione OAuth!</translation>
     </message>
     <message id="ytplayer-oauth-access-denied">
-        <source>YouTube OAuth access denined!</source>
+        <source>YouTube OAuth access denied!</source>
         <extracomment>Message informing the user about YouTube OAuth autorization denial</extracomment>
         <translation>Accesso OAuth di YouTube negato!</translation>
     </message>
@@ -116,9 +118,7 @@
     </message>
     <message id="ytplayer-label-network-offline">
         <source>Network Offline</source>
-        <extracomment>Network offline screen label
-----------
-Network offline screen label</extracomment>
+        <extracomment>Network offline screen label</extracomment>
         <translation>Rete Disconnessa</translation>
     </message>
     <message id="ytplayer-label-video-quality">
@@ -190,9 +190,7 @@ Label for menu option allowing the user to change video quality</extracomment>
     </message>
     <message id="ytplayer-action-view-license">
         <source>View license</source>
-        <extracomment>Button for showing license viewer page
-----------
-Button for showing license viewer page</extracomment>
+        <extracomment>Button for showing license viewer page</extracomment>
         <translation>Visualizza licenza</translation>
     </message>
     <message id="ytplayer-label-application-license">
@@ -414,9 +412,7 @@ Label for channel name text field</extracomment>
     </message>
     <message id="ytplayer-label-current-usage">
         <source>Current usage</source>
-        <extracomment>Label for current cache usage label
-----------
-Label for current cache usage label</extracomment>
+        <extracomment>Label for current cache usage label</extracomment>
         <translation>Utilizzo corrente</translation>
     </message>
     <message id="ytplayer-label-api-req-cache-size">
@@ -431,9 +427,7 @@ Label for current cache usage label</extracomment>
     </message>
     <message id="ytplayer-action-remove">
         <source>Remove</source>
-        <extracomment>Menu action to remove the element from the list
-----------
-Menu action to remove the element from the list</extracomment>
+        <extracomment>Menu action to remove the element from the list</extracomment>
         <translation>Elimina</translation>
     </message>
     <message id="ytplayer-label-no-videos">
@@ -506,7 +500,7 @@ Label informing the user there are no watched recently videos</extracomment>
         <translation>Riprendi automaticamente i download</translation>
     </message>
     <message id="ytplayer-description-autoresume">
-        <source>On startup, resume all downloads which were either quened or in progress when YTPlayer was closed.</source>
+        <source>On startup, resume all downloads which were either queued or in progress when YTPlayer was closed.</source>
         <extracomment>Description of video download auto resume switch in settings</extracomment>
         <translation>All&apos;avvio, riprendere tutti i download che erano in coda o in corso quando YTPlayer è stato chiuso.</translation>
     </message>
@@ -581,16 +575,12 @@ Label informing the user there are no watched recently videos</extracomment>
     </message>
     <message id="ytplayer-msg-cancelling-download">
         <source>Cancelling download</source>
-        <extracomment>Remorse popup message telling the user video download will be cancelled
-----------
-Remorse popup message telling the user video download will be cancelled</extracomment>
+        <extracomment>Remorse popup message telling the user video download will be cancelled</extracomment>
         <translation>Annullamento download</translation>
     </message>
     <message id="ytplayer-msg-removing-download">
         <source>Removing download</source>
-        <extracomment>Remorse popup message telling the user video download will be removed
-----------
-Remorse popup message telling the user video download will be removed</extracomment>
+        <extracomment>Remorse popup message telling the user video download will be removed</extracomment>
         <translation>Rimozione download</translation>
     </message>
     <message id="ytplayer-msg-clearing-cache">
@@ -660,7 +650,6 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-msg-direct-playback-impossible">
         <source>No video streams available</source>
-        <oldsource>Direct video playback not possible</oldsource>
         <extracomment>Notification summary informing the user direct video playback is not possible</extracomment>
         <translation>Nessun flusso video disponibile</translation>
     </message>
@@ -786,9 +775,7 @@ Remorse popup message telling the user video download will be removed</extracomm
     </message>
     <message id="ytplayer-action-hide-search">
         <source>Hide search</source>
-        <extracomment>Menu option allowing the user to hide search field
-----------
-Menu option allowing the user to hide search field</extracomment>
+        <extracomment>Menu option allowing the user to hide search field</extracomment>
         <translation>Nascondi ricerca</translation>
     </message>
     <message id="ytplayer-msg-removing-favorite">
@@ -833,7 +820,7 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-label-controls-hide-delay">
         <source>Controls hide delay</source>
-        <extracomment>Lael for slider changing video player controls hide delay</extracomment>
+        <extracomment>Label for slider changing video player controls hide delay</extracomment>
         <translation>Controlli nascondi ritardo</translation>
     </message>
     <message id="ytplayer-label-autopause">
@@ -843,7 +830,6 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-description-autopause">
         <source>Automatically pause video playback when application is deactivated.</source>
-        <oldsource>Automatically pause video playback when application is deactivated</oldsource>
         <extracomment>Description of video auto pause option switch.</extracomment>
         <translation>Pausa automatica della riproduzione video quando l&apos;applicazione viene disattivata </translation>
     </message>
@@ -889,7 +875,7 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-label-broken-image">
         <source>No image</source>
-        <extracomment>Label shown where video thumbnail is not valid, can't be loaded. Should be very short 8-10 characters max.</extracomment>
+        <extracomment>Label shown where video thumbnail is not valid, can&apos;t be loaded. Should be very short 8-10 characters max.</extracomment>
         <translation>Nessuna immagine</translation>
     </message>
     <message id="ytplayer-label-no-streams">
@@ -899,13 +885,11 @@ Menu option allowing the user to hide search field</extracomment>
     </message>
     <message id="ytplayer-msg-video-unavailable">
         <source>Video no longer available</source>
-        <oldsource>Video no longer available!</oldsource>
         <extracomment>Notification summary informing the user video is no longer available.</extracomment>
         <translation>Il video non è più disponibile</translation>
     </message>
     <message id="ytplayer-msg-video-unavailable-desc">
         <source>Video was removed from YouTube</source>
-        <oldsource>Video was removed from YouTube.</oldsource>
         <extracomment>Notification body explaining why video is no longer available.</extracomment>
         <translation>Il video è stato rimosso da YouTube</translation>
     </message>
